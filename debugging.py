@@ -16,3 +16,4 @@ elif choose==2:
     print(f"{bike2+2000} will cost you {bike2_price}")
 else:
     print("press only 1 or 2")
+

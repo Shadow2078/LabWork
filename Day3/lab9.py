@@ -10,6 +10,7 @@ for i in range(3):
     if username=="Suman" and password=="Suman222":
         print("logged in Successfully")
         break
-    
+    else:
+        print("Invalid username or password.")
 else:
     print("Attempt finished")
